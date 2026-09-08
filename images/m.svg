@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="83.81926mm"
+   height="83.81926mm"
+   viewBox="0 0 83.81926 83.81926"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="m.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="m.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.5504339"
+     inkscape:cx="-6.35862"
+     inkscape:cy="-28.159603"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="100.62562"
+       y="374.24991"
+       width="131.58736"
+       height="107.20499"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.317024,-117.38438)">
+    <rect
+       style="fill:#464646;fill-opacity:1;stroke-width:0.16;stroke-linecap:round;stroke-miterlimit:20;paint-order:markers stroke fill"
+       id="rect2"
+       width="83.81926"
+       height="83.81926"
+       x="31.317024"
+       y="117.38438"
+       rx="6.9639482"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:79.6398px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:rtl;text-anchor:start;fill:#dbdbdb;fill-opacity:1;stroke-width:0.1296;stroke-linecap:round;stroke-miterlimit:20;paint-order:markers stroke fill"
+       x="107.74451"
+       y="180.32408"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:79.6398px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#dbdbdb;fill-opacity:1;stroke-width:0.1296"
+         x="107.74451"
+         y="180.32408">m</tspan></text>
+  </g>
+</svg>
